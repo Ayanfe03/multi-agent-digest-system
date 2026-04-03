@@ -54,3 +54,12 @@ Intermediate artifacts are written to:
 - The summarizer currently sends the first ~8,000 characters of the ingested text to the model.
 - Priority scoring is keyword-based and easy to customize in `agents/prioritizer/app.py`.
 - All services run once and exit (no long-running containers).
+
+## TODO / Improvements
+
+- Add Notion as an input source (e.g., pull tasks for a given day and write titles into `data/input/`).
+- Add Gmail as an input source (e.g., pull unread or last-24h emails into `data/input/`).
+- Save or copy the daily digest to a user-accessible location for easy review (e.g., a desktop or documents folder).
+- Schedule the pipeline to run once per day via:
+- `cron` on macOS/Linux
+- Windows Task Scheduler on Windows
