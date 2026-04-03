@@ -23,7 +23,7 @@ SYSTEM_PROMPT="""
 You are a helpful assistant that summarizes long text
 into key bullet points. Each bullet point should be one
 concise sentence capturing a core insight
-""""
+"""
 
 MAX_RETRIES=3
 RETRY_DELAY=5   #seconds
