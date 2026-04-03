@@ -60,6 +60,7 @@ Intermediate artifacts are written to:
 - Add Notion as an input source (e.g., pull tasks for a given day and write titles into `data/input/`).
 - Add Gmail as an input source (e.g., pull unread or last-24h emails into `data/input/`).
 - Save or copy the daily digest to a user-accessible location for easy review (e.g., a desktop or documents folder).
+- Replace rule-based keyword system for prioritizer with LLM based reranking
 - Schedule the pipeline to run once per day via:
 - `cron` on macOS/Linux
 - Windows Task Scheduler on Windows
