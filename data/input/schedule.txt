@@ -1,0 +1,7 @@
+Schedule
+
+- 09:00 Standup with engineering
+- 10:30 Review vendor contract (deadline today)
+- 13:00 Product sync
+- 15:00 Client demo (urgent)
+- 16:30 Write weekly status update

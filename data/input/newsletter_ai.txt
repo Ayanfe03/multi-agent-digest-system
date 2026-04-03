@@ -1,0 +1,7 @@
+AI Newsletter - April Update
+
+- OpenAI released new tooling for multi-agent orchestration.
+- Researchers demonstrated a 20% efficiency gain in retrieval-augmented generation.
+- A major enterprise adopted AI copilots across support workflows.
+- Reminder: Submit talk proposals by Friday.
+- Tip: Use smaller models for first-pass summarization to cut costs.
