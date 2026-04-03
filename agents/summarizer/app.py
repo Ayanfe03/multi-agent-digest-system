@@ -72,7 +72,7 @@ def main():
         f.write(summary)
     logger.info(f"Summary written to {OUTPUT_FILE}")
 
-if __name__ = "__main__":
+if __name__ == "__main__":
     main()
 
 

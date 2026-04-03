@@ -35,6 +35,6 @@ def ingest():
         out.write(content)
     logger.info(f"Ingested {files_processed} files --> {OUTPUT_FILE} ")
 
-if __name__ = "__main__":
+if __name__ == "__main__":
     ingest()
 
